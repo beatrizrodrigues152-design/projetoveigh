@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tributo - Veigh</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Cabeçalho -->
+      <header>
+        <img src="img/logo veigh 2.png" alt="Logo Veigh" height="300" width="300" />
+        <p>“A gente saiu dos prédios pra vencer o mundo.”</p>
+      </header>
+
+      <!-- Seção Principal -->
+      <main>
+        <section>
+          <img src="img/logo veigh.jpg" alt="Veigh nos prédios de Itapevi" />
+          <p>Veigh, o jovem artista que saiu da periferia para conquistar o mundo com sua música.</p>
+        </section>
+        <hr />
+
+        <section>
+          <h2>História do Veigh</h2>
+          <p><strong>Thiago Veigh da Silva</strong>, conhecido artisticamente como <strong>Veigh</strong>, nasceu e cresceu na cidade de <strong>Itapevi</strong>, na Grande São Paulo. É um dos principais nomes do trap nacional, reconhecido pela autenticidade, letras pessoais e conexão com a quebrada.</p>
+          <p>Veigh teve uma infância simples, enfrentando dificuldades financeiras comuns a muitos jovens periféricos, mas sempre cercado de criatividade, amizade e sonhos. Cresceu entre os prédios populares de Itapevi, que mais tarde inspiraram o nome do seu primeiro álbum: <em>“Dos Prédios”</em>.</p>
+          <p>Na adolescência, foi skatista e participou de campeonatos de rua, além de se envolver com arte urbana. Mesmo diante das dificuldades, nunca deixou de sonhar em mudar de vida por meio da música.</p>
+          <p>Em 2019, Veigh começou a ganhar notoriedade com a faixa <em>“Indispensável”</em>, conquistando uma base sólida de fãs com lançamentos constantes no YouTube e nas plataformas digitais.</p>
+          <p>O grande ponto de virada foi o álbum <em>“Dos Prédios”</em> (2022). Com produção refinada e letras que falavam diretamente à realidade da juventude periférica, o projeto foi um sucesso.</p>
+          <blockquote>
+            "A gente saiu dos prédios pra vencer o mundo."
+            <p>— Veigh</p>
+          </blockquote>
+        </section>
+        <hr />
+
+        <section>
+          <h2>Curiosidades sobre Veigh</h2>
+          <ul>
+            <li>Antes da fama, trabalhou como atendente de telemarketing, garçom e vendedor de loja.</li>
+            <li>Começou na música em batalhas de rima e gravações caseiras.</li>
+            <li>Fundou o selo independente <strong>Supernova Ent.</strong> com o produtor Nagalli.</li>
+            <li>Seu álbum “Dos Prédios Deluxe” quebrou recorde de estreia no Spotify Brasil em 2023.</li>
+            <li>Fez turnês pela Europa, incluindo Rock in Rio Lisboa.</li>
+          </ul>
+          <blockquote>
+            "Veigh é um dos principais nomes do trap nacional, representando a juventude periférica com autenticidade."
+            <p>— Crítica musical</p>
+          </blockquote>
+        </section>
+
+        <section>
+          <img src="img/veigh show.jpeg" alt="Veigh em apresentação ao vivo" />
+          <p>Veigh em apresentação ao vivo, conectando com sua base de fãs.</p>
+        </section>
+        <hr />
+      </main>
+
+      <!-- Rodapé -->
+      <footer>
+        <h2>Mais Informações</h2>
+        <p>
+          Saiba mais sobre Veigh e sua carreira em
+          <a href="https://open.spotify.com/artist/1Lx46c8f4zmG5c2bT2mG7f" target="_blank" rel="noopener noreferrer">Spotify - Veigh</a>
+          <a href="https://www.instagram.com/veighoficial/" target="_blank" rel="noopener noreferrer">Instagram Oficial</a> e
+          <a href="https://pt.wikipedia.org/wiki/Veigh" target="_blank" rel="noopener noreferrer">Wikipédia</a>.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
